@@ -1,5 +1,5 @@
 <?php
-	$name = 'Андрей';
+	  $name = 'Андрей';
     $job = 'Художник';
     $location = 'Новосибирск, Россия';
     $email = 'mail@mail.ru';
@@ -23,8 +23,7 @@
     'desc' => ['Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.', 
     'Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.', 
     'Lorem ipsum dolor sit amet, consectetur adipisicing elit.']
-    ];
-    
+    ];  
 ?>
 
 <!DOCTYPE html>
