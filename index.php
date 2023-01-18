@@ -1,29 +1,29 @@
 <?php
-	  $name = 'Андрей';
-    $job = 'Художник';
-    $location = 'Новосибирск, Россия';
-    $email = 'mail@mail.ru';
-    $phone = 89131234567;
+	$name = 'Андрей';
+  $job = 'Художник';
+  $location = 'Новосибирск, Россия';
+  $email = 'mail@mail.ru';
+  $phone = 89131234567;
 
-    $skills = 
-    [
-    'skill_name' => ['Adobe Photoshop', 'Photography', 'Illustrator', 'Media'],
-    'skill_level' => ['90%', '80%', '75%', '50%']
-    ];
+  $skills = 
+  [
+  'skill_name' => ['Adobe Photoshop', 'Photography', 'Illustrator', 'Media'],
+  'skill_level' => ['90%', '80%', '75%', '50%']
+  ];
 
-    $age = 2022-1977; //вычисляем возраст в годах
-    $days = (2022-1977)*365; //вычисляем возраст в днях
+  $age = 2022-1977; //вычисляем возраст в годах
+  $days = (2022-1977)*365; //вычисляем возраст в днях
     
-    $work_exp = 
-    [
-    'title' => ['Front End Developer', 'Web Developer', 'Graphic Designer'],
-    'site' => ['', 'something.com', 'designsomething.com'],
-    'date_start' => ['Jan 2015', 'Mar 2012', 'Jun 2010'],
-    'date_finish' => ['Current', 'Dec 2014', 'Mar 2012'],
-    'desc' => ['Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.', 
-    'Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.', 
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit.']
-    ];  
+  $work_exp = 
+  [
+  'title' => ['Front End Developer', 'Web Developer', 'Graphic Designer'],
+  'site' => ['', 'something.com', 'designsomething.com'],
+  'date_start' => ['Jan 2015', 'Mar 2012', 'Jun 2010'],
+  'date_finish' => ['Current', 'Dec 2014', 'Mar 2012'],
+  'desc' => ['Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.', 
+  'Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.', 
+  'Lorem ipsum dolor sit amet, consectetur adipisicing elit.']
+  ];
 ?>
 
 <!DOCTYPE html>
