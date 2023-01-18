@@ -1,5 +1,5 @@
 <?php
-	$name = 'Андрей';
+  $name = 'Андрей';
   $job = 'Художник';
   $location = 'Новосибирск, Россия';
   $email = 'mail@mail.ru';
